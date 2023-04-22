@@ -1,20 +1,31 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este é um projeto desenvolvido através do curso da Alura (Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD).
 
-## Development server
+Neste curso é desenvolvido um painel de pensamentos, onde é possível Cadastrar um novo pensamento, Listar, Atualizar e Deletar o mesmo, através dos verbos http CRUD (Create, Read, Update, Delete). Está sendo bastante enriquecedor, pois é ensinado de uma forma simples os conceitos básicos do framework Angular.
+
+Até o momento já ensinado as seguintes diretivas do Angular:
+
+* Property Binding
+* Interpolação
+* Event Binding
+* Two-way Data Binding
+
+O projeto está sendo desenvolvido com Angular, na versão: 15.0.4.
+
+## Como inicializar uma aplicação Angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Como criar um novo componente em Angular
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Como "buildar" uma aplicação Angular, afim de verificar se há erros no código ou falta de importação de algum módulo
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Como rodar testes no Angular
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
