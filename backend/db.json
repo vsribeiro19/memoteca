@@ -1,23 +1,34 @@
 {
-    "pensamentos": 
-    [
-        {
-            "id": 1,
-            "conteudo": "npm install -g @angular/cli",
-            "autoria": "Instalar Angular CLI",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 2,
-            "conteudo": "ng build --aot=true",
-            "autoria": "Comandos Angular",
-            "modelo": "modelo3"
-        },
-        {
-            "id": 3,
-            "conteudo": "npm build --prod",
-            "autoria": "Comando para buildar o Angular",
-            "modelo": "modelo2"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "npm install -g @angular/cli",
+      "autoria": "Instalar Angular CLI",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "ng build --aot=true",
+      "autoria": "Comandos Angular",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "npm build --prod",
+      "autoria": "Comando para buildar o Angular",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Novo pensamento",
+      "autoria": "victor",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Andar com fé eu vou, café não costuma faiá",
+      "autoria": "Autor Desconhecido",
+      "modelo": "modelo3",
+      "id": 5
+    }
+  ]
 }
