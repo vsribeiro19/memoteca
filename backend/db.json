@@ -1,0 +1,23 @@
+{
+    "pensamentos": 
+    [
+        {
+            "id": 1,
+            "conteudo": "Que bom que você veio",
+            "autoria": "Victor",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 2,
+            "conteudo": "Na minha máquina funciona",
+            "autoria": "Autor Desconhecido",
+            "modelo": "modelo3"
+        },
+        {
+            "id": 3,
+            "conteudo": "Hello World!",
+            "autoria": "Programadores",
+            "modelo": "modelo2"
+        }
+    ]
+}
