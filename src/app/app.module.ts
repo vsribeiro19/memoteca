@@ -10,6 +10,7 @@ import { ListarPensamentoComponent } from './componentes/pensamentos/listar-pens
 import { RouterOutlet } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensam
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    RouterOutlet
+    RouterOutlet,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -3,20 +3,20 @@
     [
         {
             "id": 1,
-            "conteudo": "Que bom que você veio",
-            "autoria": "Victor",
+            "conteudo": "npm install -g @angular/cli",
+            "autoria": "Instalar Angular CLI",
             "modelo": "modelo1"
         },
         {
             "id": 2,
-            "conteudo": "Na minha máquina funciona",
-            "autoria": "Autor Desconhecido",
+            "conteudo": "ng build --aot=true",
+            "autoria": "Comandos Angular",
             "modelo": "modelo3"
         },
         {
             "id": 3,
-            "conteudo": "Hello World!",
-            "autoria": "Programadores",
+            "conteudo": "npm build --prod",
+            "autoria": "Comando para buildar o Angular",
             "modelo": "modelo2"
         }
     ]

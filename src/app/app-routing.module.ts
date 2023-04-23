@@ -7,7 +7,7 @@ const routes: Routes = [
   {
     path: '',
     redirectTo: 'listarPensamento',
-    pathMatch:'full'
+    pathMatch: 'full'
   },
   {
     path: 'criarPensamento',
