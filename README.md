@@ -4,12 +4,15 @@ Este é um projeto desenvolvido através do curso da Alura (Angular 14: aplique 
 
 Neste curso é desenvolvido um painel de pensamentos, onde é possível Cadastrar um novo pensamento, Listar, Atualizar e Deletar o mesmo, através dos verbos http CRUD (Create, Read, Update, Delete). Está sendo bastante enriquecedor, pois é ensinado de uma forma simples os conceitos básicos do framework Angular.
 
-Até o momento já ensinado as seguintes diretivas do Angular:
+O curso aborda vários conceitos do framework Angular, alguns deles são:
 
 * Property Binding
 * Interpolação
 * Event Binding
 * Two-way Data Binding
+* Router
+* Observable
+* HTTP
 
 O projeto está sendo desenvolvido com Angular, na versão: 15.0.4.
 
