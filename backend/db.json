@@ -9,8 +9,8 @@
     {
       "id": 2,
       "conteudo": "ng build --aot=true",
-      "autoria": "Comandos Angular",
-      "modelo": "modelo3"
+      "autoria": "Comandos para rodar no Angular",
+      "modelo": "modelo2"
     },
     {
       "id": 3,
@@ -19,16 +19,10 @@
       "modelo": "modelo2"
     },
     {
-      "conteudo": "Novo pensamento",
-      "autoria": "victor",
-      "modelo": "modelo2",
+      "conteudo": "Criando um novo",
+      "autoria": "teste",
+      "modelo": "modelo1",
       "id": 4
-    },
-    {
-      "conteudo": "Andar com fé eu vou, café não costuma faiá",
-      "autoria": "Autor Desconhecido",
-      "modelo": "modelo3",
-      "id": 5
     }
   ]
 }
